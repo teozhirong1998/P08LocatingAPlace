@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P08 Locating A Place</string>
+    <string-array name="array">
+        <item>CWP</item>
+        <item>KB</item>
+        <item>ECP</item>
+    </string-array>
+</resources>
